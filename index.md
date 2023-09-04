@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello";
 ```
+- [ ] push
+- [ ] commit
+- [ ] done
